@@ -1,0 +1,17 @@
+bosak-staff-verify/
+├── app/
+│   ├── api/
+│   │   └── verify/
+│   │       └── route.js
+│   ├── verify/
+│   │   └── page.js
+│   ├── globals.css
+│   ├── layout.js
+│   └── page.js
+├── data/
+│   └── staff.json
+├── lib/
+│   └── staffStore.js
+├── .env.local
+├── package.json
+└── README.md
